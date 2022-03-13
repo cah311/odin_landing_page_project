@@ -42,10 +42,16 @@ li {
 .heroSection {
     display: flex;
     justify-content: space-around;
+    margin: auto;
+    padding: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
+    gap: 8px;
 }
 
 .heroCol1 {
     width: 500px;
+    
 }
 
 .heroCol1 h1 {
@@ -69,14 +75,12 @@ li {
 
 .heroCol2 {
     display: flex;
-    flex-shrink: 1;
+    flex-shrink: 2;
     
 }
 
 .placeHolder {
-    /* width: 500px;
-    height: 250px;
-     */
+    
     background-color: grey;
     display: flex;
     justify-content: center;
@@ -84,6 +88,7 @@ li {
     padding-left: 200px;
     padding-right: 200px;
     color: white;
+    flex-wrap: nowrap;
 }
 
 
