@@ -68,15 +68,23 @@ li {
 .heroCol2 {
     display: flex;
     flex-shrink: 1;
-    width: 500px;
+    
 }
 
 .placeHolder {
-    width: 500px;
+    /* width: 500px;
     height: 250px;
-    
+     */
     background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    color: white;
 }
+
+
 
 .section2 {
 
