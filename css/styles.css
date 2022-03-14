@@ -105,6 +105,17 @@ li {
     color: #1f2937;
 }
 
+.sec2content {
+    display: flex;
+}
+
+.sec2imgs {
+    
+    height: 100px;
+    width: 100px;
+    outline: 3px solid black;
+}
+
 .section3 {
 
 }
