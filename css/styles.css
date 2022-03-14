@@ -109,6 +109,7 @@ li {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    column-gap: 54px;
 }
 
 .sec2items {
@@ -124,6 +125,10 @@ li {
     height: 150px;
     width: 150px;
     outline: 4px solid #3882F6;
+}
+
+.sec2txt {
+    color: #1f2937;
 }
 
 
