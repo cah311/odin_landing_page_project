@@ -161,6 +161,11 @@ li {
     display: flex;
 }
 
+.sec4container {
+    display: flex;
+    padding: 200px 600px;
+}
+
 .footer {
     background-color: #1F2937;
 
