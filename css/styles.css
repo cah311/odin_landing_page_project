@@ -187,6 +187,17 @@ li {
     align-items: center;
 }
 
+.sec4heading {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.sec4txt {
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
 .sec4btn {
     margin-left: 250px;
     color: #F9FAF8;
