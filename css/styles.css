@@ -135,7 +135,7 @@ li {
     display: flex;
     flex-direction: column;
     background-color: #E5E7EB;
-    
+    padding: 40px 100px;
 
 }
 
@@ -144,8 +144,16 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-   
+}
 
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+}
+
+.ref {
+    align-self: flex-end;
+    font-weight: bold;
 }
 
 .section4 {
