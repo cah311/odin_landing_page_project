@@ -110,6 +110,7 @@ li {
     flex-direction: row;
     justify-content: center;
     column-gap: 54px;
+    margin-bottom: 100px;
 }
 
 .sec2items {
