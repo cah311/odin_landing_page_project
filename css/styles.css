@@ -131,10 +131,14 @@ li {
     color: #1f2937;
 }
 
-
-
 .section3 {
+    display: flex;
+    background-color: #E5E7EB;
+}
 
+.sec3content {
+    width: 800px;
+    height: 400px;
 }
 
 .section4 {
