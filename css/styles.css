@@ -166,11 +166,12 @@ li {
 
 .sec4container {
     display: flex;
-    padding: 80px 200px;
-    margin: 80px 200px;
+    padding: 40px 220px;
+    margin: 100px 150px;
     background-color: #3882f6;
     justify-content: center;
     align-items: center;
+    border-radius: 0.5em;
     
 }
 
