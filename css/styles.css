@@ -158,7 +158,7 @@ li {
 }
 
 .section4 {
-
+    display: flex;
 }
 
 .footer {
