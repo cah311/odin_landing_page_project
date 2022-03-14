@@ -107,14 +107,26 @@ li {
 
 .sec2content {
     display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.sec2items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 150px;
 }
 
 .sec2imgs {
-    
-    height: 100px;
-    width: 100px;
-    outline: 3px solid black;
+    border-radius: 0.5em;
+    height: 150px;
+    width: 150px;
+    outline: 4px solid #3882F6;
 }
+
+
 
 .section3 {
 
