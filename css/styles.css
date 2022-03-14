@@ -179,6 +179,7 @@ li {
 .sec4col1 {
     display: flex;
     flex-direction: column;
+    
 }
 .sec4col2 {
     display: flex;
@@ -191,24 +192,34 @@ li {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: bold;
+    margin-bottom: auto;
 }
 
 .sec4txt {
     color: #F9FAF8;
     font-size: 18px;
+    margin-top: auto;
+    font-weight: lighter;
 }
 
 .sec4btn {
+    display: flex;
+    flex-direction: row;
     margin-left: 250px;
     color: #F9FAF8;
     outline: 4px solid #F9FAF8;
     border-radius: 0.5em;
     background-color: #3882f6;
     border: 0;
-    padding: 3px 20px;
+    padding: 4px 60px;
+    font-size: 18px;
+    flex-wrap: nowrap;
 }
 
 .footer {
+    display: flex;
+    justify-content: center;
     background-color: #1F2937;
-
+    color: #F9FAF8;
+    padding: 20px;
 }
